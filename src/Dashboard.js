@@ -3,11 +3,11 @@ import './Dashboard.css';
 // import Sidebar from "./components/Sidebar"
 import {
   ResponsiveContainer,
-  AreaChart,BarChart,YAxis,Bar,
+BarChart,Bar,
   XAxis,
   Tooltip,
-  CartesianGrid,
-  Area,
+
+
 } from "recharts";
 import Unitprogress from "./unit";
 import { Typography, Box} from "@mui/material";
