@@ -59,7 +59,7 @@ function Dashboard() {
     };
 
     return (
-        <div>
+        <div className='padd'>
             <body id="page-top">
 
                 {/*  <!-- Page Wrapper --> */}
